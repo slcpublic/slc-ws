@@ -1,0 +1,2 @@
+rootProject.name='slc-ws'
+include ':app', ':ws'
